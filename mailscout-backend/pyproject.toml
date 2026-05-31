@@ -6,7 +6,6 @@ build-backend = "hatchling.build"
 name = "mailscout-backend"
 version = "1.0.0"
 description = "Open-source email verification SaaS backend"
-readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.11"
 dependencies = [
